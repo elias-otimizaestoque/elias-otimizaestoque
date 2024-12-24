@@ -1,7 +1,7 @@
 Elias - Especialista em logistica e organização e melhoria de estoques
 - **Telefone / Celular**: (11) 91335-3137  
 
-![e198db08-18b0-4381-8660-bcda84fe872f](https://github.com/user-attachments/assets/e12724b3-1d6a-45e4-bcc8-eaa82912e3dc)
+![Screenshot_20240206-012427](https://github.com/user-attachments/assets/83679777-cac1-426f-925c-b959ad051561)
 
 ---
 
