@@ -485,4 +485,5 @@ Aqui estão alguns exemplos de projetos que demonstram o uso dessas tecnologias:
 
 Minha abordagem técnica e prática, aliada à constante atualização com as melhores práticas do mercado, proporciona às empresas não apenas soluções eficazes, mas também uma base sólida para inovação e crescimento sustentável. Com o desenvolvimento de sistemas personalizados e o uso de tecnologias avançadas como IA e machine learning, meu objetivo é transformar operações complexas em processos eficientes e orientados a resultados.
 
+![CERTIFICADO ITIL FOUNDATION ELIAS 2012](https://github.com/user-attachments/assets/72b7eeb8-e153-4ca8-bb1f-f7c992887d57)
 
