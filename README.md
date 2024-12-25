@@ -1,4 +1,4 @@
-# Elias - Tecnólogo em Logistica - Especialista em controle de estoque, compras e supply chain - Arquiteto de IA, Machine Learnin, Indicadores, BI e Automação de processos e desenvolvimento  de sistemas🚀
+# Elias - Tecnólogo em Logistica - Especialista em controle de estoque, compras e supply chain - Arquiteto de IA, Machine Learning, Indicadores, BI e Automação de processos e desenvolvimento  de sistemas🚀
 
 ### 💡 **O que Eu Faço:**
 - **Desenvolvedor de Soluções Avançadas**: Criação de **Sistemas Inteligentes**, **Modelos de IA** e **Automação de Processos** com **Machine Learning**, **Business Intelligence (BI)**, **Auto BI**, e **Auto ML**.
