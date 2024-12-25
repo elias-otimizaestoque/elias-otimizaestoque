@@ -2,6 +2,7 @@ Elias - Especialista em logistica e organização e melhoria de estoques
 - **Telefone / Celular**: (11) 91335-3137  
 ---
 
+
 Caro Empresário/Recrutador,
 
 Estou animado em oferecer minha experiência como Auxiliar, Técnico e Operacional para sua organização. Com anos de prática em gestão de estoques, otimização de processos logísticos e adaptação a novas tecnologias, estou preparado para contribuir significativamente para o sucesso e eficiência operacional da sua equipe. Além disso, minha abordagem colaborativa e meu compromisso com a melhoria contínua garantem resultados superiores e alinhados às necessidades da sua empresa.
@@ -9,6 +10,10 @@ Estou animado em oferecer minha experiência como Auxiliar, Técnico e Operacion
 Estou ansioso para a oportunidade de conversar mais sobre como minhas habilidades e experiência podem beneficiar sua organização.
 
 # **Desenvolvedor de Sistemas e Ferramentas Avançadas**
+
+
+https://github.com/user-attachments/assets/c002ec3f-fd49-4498-b3d3-2999980f31ab
+
 
 
 ---
