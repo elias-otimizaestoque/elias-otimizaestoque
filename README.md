@@ -6,13 +6,13 @@
 - **Consultoria em Melhoria Contínua**: Implementação de **ITIL**, **ITSM**, **Kanban**, **Lean** e **Kaizen** para **auditoria** e **eficiência operacional**.
 
 ### 🌐 **Quem Sou Eu**:
-- **Arquiteto de IA e Inovação** com mais de 600 protótipos criados em IA, **Machine Learning** e **Automação**.
-- **Expert em Integração de Sistemas e Processos de Transformação Digital**, **estratégias de redução de custos**, **otimização de fluxos de trabalho**, e **inteligência operacional**.
-- **Criador de Soluções Tecnológicas** de ponta, sempre à frente das necessidades do mercado.
+- **Arquiteto de IA e Inovação** com mais de 600 projetos entregues ao longos dos útlimos 15 anos, além de expertise avançado em tecnologias modernas como: **Machine Learning** e **Automação com IA**.
+- **Expert em Integração de Sistemas pra coleta, transformação e processamento de dados pra insights e BI, Expertise em Processos de Transformação Digital**, **estratégias de redução de custos**, **otimização de fluxos de trabalho**, e **inteligência operacional**.
+- **Criador de Soluções Tecnológicas** entre sitemas e automações de ponta, sempre à frente do padrão local ou nacional e alinhado com as técnicas mais avançadas a nível mundial, de acordo com as reais das necessidades do mercado.
 
 ### 🔧 **O Que Ofereço**:
-- **Soluções Customizadas** em **IA, Machine Learning**, e **Automação**.
-- **Consultoria Estratégica** para empresas focadas em **inovação tecnológica** e **eficiência operacional**.
+- **Soluções Customizadas** em **IA, Machine Learning**, e **Automação** que reduzem custo e aumentam controle e eficiência.
+- **Mão de obra altamente qualificada e  Estratégica** para empresas focadas em **inovação tecnológica** e **eficiência operacional**, que buscam acelerar seus resultados com técnologia, processos e inovação.
 - **Expertise Completa** em **Gestão de Estoque**, **Auditoria de Processos**, **Otimização de Processos de Compras** e **Transformação Digital**.
 
 ## 🚀 **Como Eu Uso as Tecnologias para Transformar Processos e Maximizar Resultados**
