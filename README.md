@@ -1,7 +1,6 @@
 # Analista de controle de estoque, compras e supply chain - Arquiteto de IA, Machine Learning, Indicadores, BI e Automação de processos e desenvolvimento  de sistemas🚀
 
-Essas soluções são baseadas nas tecnologias mais avançadas, como **Machine Learning**, **IA**, **AutoML**, **BI**, **Kubernetes**, **Docker**, **React**, **Python** e **Cloud Computing**, e são projetadas para oferecer resultados tangíveis, criando um ambiente de trabalho mais **eficiente**, **econômico** e **sustentável**.
-
+Essas entregas são realizadas com emprego de técnologias, sistemas e soluções e tecnologias mais avançadas, como **Machine Learning**, **IA**, **AutoML**, **BI**, **Kubernetes**, **Docker**, **React**, **Python** e **Cloud Computing**, e são projetadas para oferecer resultados tangíveis, criando um ambiente de trabalho mais **eficiente**, **econômico** e **sustentável**.
 
 ### 🚀 **Tecnologias e processos que dominio**:
 
@@ -40,9 +39,6 @@ Essas soluções são baseadas nas tecnologias mais avançadas, como **Machine L
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-%E2%9C%94-blue)
 ![Agile](https://img.shields.io/badge/Agile-%E2%9C%94-blue)
 ![SaaS](https://img.shields.io/badge/SaaS-%E2%9C%94-purple)
-
-
-# **🚀 Portfólio de projetos**
 
 ## 🚀 **Projetos de IA e Automação - Supply Chain e Logística**  
 [![AI-Projects](https://img.shields.io/badge/AI--Projects-yellow)](https://github.com/elias-otimizaestoque/AI-Projects)  
