@@ -259,9 +259,13 @@ Meu diferencial está em combinar habilidades técnicas com uma abordagem estrat
 
 ---
 
-## 🖼️ **Projetos**
+# **🚀 Projetos**
 
-Abaixo seguem alguns exemplos de projetos desenvolvidos que ilustram o uso prático de minhas soluções:
+Atualmente, estou desenvolvendo um sistema de última geração para otimização de estoques, relatórios, melhorias e auditoria em processos de estoque, compras e orçamentos. Este projeto integra tecnologia avançada para promover eficiência operacional, automação e tomadas de decisão baseadas em dados.
+
+### **Exemplos de Projetos**  
+Abaixo seguem alguns exemplos de projetos desenvolvidos que ilustram o uso prático de minhas soluções:  
+[www.otimizaestoque.com.br](http://www.otimizaestoque.com.br)
 
 ### **Sistema de Controle de Estoque e Logística Avançada**  
 - **Automação de Processos**: Implementação de um sistema automatizado para o gerenciamento de estoques e logística com integração em tempo real, otimizando a entrega de mercadorias.
@@ -390,7 +394,22 @@ Sou certificado em ITIL v3, com sólida experiência na condução de projetos f
 - **Compras e Suprimentos**: Gestão eficiente de processos de aquisição e controle de estoques com foco em TI e automação.
 - **Infraestrutura e Sistemas**: Desenvolvimento de soluções integradas que aliam tecnologia, boas práticas e inovação.
 
-Atuando seguindo as boas diretries e boas práticas desde 2012 através da metodológia e procesos da ITIL, Lean,  e leitura e aplicação de procesoss baseado nas melhores isos de boas práticas e projetos, ofereço soluções robustas que promovem eficiência, redução de custos e melhoria contínua através da combinação de sistemas e práticas eficazes em TI e Logística.
+Sigo atuando seguindo as boas diretries e boas práticas desde 2012 através da metodológia e procesos da ITIL, Lean,  e leitura e aplicação de procesoss baseado nas melhores isos de boas práticas e projetos, ofereço soluções robustas que promovem eficiência, redução de custos e melhoria contínua através da combinação de sistemas e práticas eficazes em TI e Logística.
+
+# **🚀 Desenvolvimento de Ferramentas em 2024**
+
+Em 2024, busquei expandir meus conhecimentos e aprimorar minhas habilidades para oferecer soluções ainda mais eficazes. Com base em minha experiência em Logística e Tecnologia, estou pronto para agregar valor à sua empresa com ferramentas inovadoras e práticas bem consolidadas. 
+
+### **Demonstrações de Ferramentas**  
+Abaixo estão algumas demonstrações de ferramentas que sou capaz de construir e implementar:
+
+- **Automação de Processos Logísticos**  
+- **Sistemas de Gestão de Estoques**  
+- **Relatórios Analíticos com Integração de BI**  
+- **Auditorias Automatizadas em Compras e Orçamentos**
+
+Essas soluções são projetadas para otimizar operações, aumentar a eficiência e tomar decisões baseadas em dados, proporcionando um diferencial competitivo no mercado.
+
 
 <img width="578" alt="chrome_1wT9JY9HX2" src="https://github.com/user-attachments/assets/12089404-6f72-4f7c-8d1d-2c0a59335377" />
 
