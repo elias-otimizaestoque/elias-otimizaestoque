@@ -79,71 +79,7 @@ Essas soluções são baseadas nas tecnologias mais avançadas, como **Machine L
 ![SaaS](https://img.shields.io/badge/SaaS-%E2%9C%94-purple)
 
 
----
-
-**🔥 Acredito que a inovação e a automação são o futuro e o meu trabalho tem o objetivo de levar as empresas a um nível de excelência inédito.**
-
-**🔧** Vamos transformar o futuro? Entre em contato para discutirmos como posso agregar valor ao seu projeto ou à sua empresa!
-
-### 📞 **Contato**:
-- **WhatsApp**: [11 9 1335 3137](https://wa.me/55119913353137)
-
----
-
-## 🛑 **Para Recrutadores: Esclarecimentos sobre Meu Perfil Profissional** 🚫
-
-Gostaria de deixar claro, de maneira assertiva e sem margem para mal-entendidos, o **perfil profissional** que você está lidando ao considerar uma colaboração comigo.
-
----
-
-### 🎯 **Quem Sou Eu**:
-
-Sou um **profissional altamente qualificado**, com **especialização avançada em IA**, **Machine Learning**, **automação de processos** e **otimização de sistemas** voltados para áreas estratégicas como **gestão de estoques**, **compras** e **supply chain**. Com mais de **600 protótipos** criados e uma carreira sólida no desenvolvimento de soluções tecnológicas inovadoras, **não estou em busca de oportunidades** para ocupar **posições de liderança**, mas sim, **autonomia** para **criar**, **desenvolver** e **implementar soluções**.
-
-### 🔧 **O Que Faço**:
-
-- **Criação e Implementação de Sistemas**: Desenvolvo sistemas avançados de **previsão de demanda**, **controle de estoque** e **automação de processos**, sempre com foco em **redução de custos** e **eficiência operacional**.
-- **Consultoria Estratégica**: Ofereço serviços de consultoria para otimização de processos e **transformação digital**, aplicando metodologias como **Kaizen**, **Lean** e **DevOps** para garantir resultados rápidos e impactantes.
-- **Soluções de IA e ML**: Especializado na integração de **modelos de IA**, **Machine Learning** e **automação** para impulsionar a inovação dentro das empresas.
-
----
-
-### 🚫 **Não Sou Este Tipo de Profissional**:
-
-- **Não estou em busca de propostas abaixo do meu valor**. Sei exatamente o que meu **conhecimento** e **experiência** agregam em termos de **resultados concretos**.
-- **Não sou um "pionzinho"**: Estou aqui para **entregar valor real** e **impacto significativo**, não para ser uma peça qualquer em uma máquina. Se o seu objetivo for me colocar em um papel de subordinação ou trabalho sem autonomia criativa, é melhor procurar outro tipo de profissional.
-- **Não estou desesperado** por emprego. Meu trabalho e resultados falam por si mesmos, e estou em busca de **projetos desafiadores** que me permitam **usar minha expertise para transformar empresas**.
-
----
-
-### 💼 **Busco Oportunidades e Projetos**:
-
-- **Propostas de Parceria ou Consultoria**: Busco colaborar com **empresas visionárias**, que compreendam o potencial da inovação e da automação para transformar suas operações e alcançar resultados estratégicos.
-- **Autonomia e Impacto**: Não procuro apenas uma posição, mas sim um espaço onde eu tenha **liberdade para inovar**, **criar soluções** e **implementar processos** que tragam resultados tangíveis e mensuráveis.
-- **Empresas que buscam evolução contínua**: Empresas que compartilham a visão de **crescimento constante**, **transformação digital** e **otimização de processos**, e que estão dispostas a investir no **valor agregado** por um profissional de minha qualificação.
-
----
-
-### 💬 **Sobre Salários**:
-
-- **Salário CLT**: R$ 4.100,00  
-- **Salário PJ**: R$ 5.100,00  
-
-Esses valores refletem o meu **comprometimento** e o **valor que entrego** a cada projeto. **Não estou disposto a aceitar propostas que não condizem com minha expertise**, e sempre busco uma **parceria justa** em que as empresas se beneficiem do **impacto direto** das soluções que ofereço.
-
----
-
-### 📞 **Contato**:
-
-- **WhatsApp**: [11 9 1335 3137](https://wa.me/55119913353137)
-
-Estou disponível para discutir **parcerias estratégicas** e como posso **ajudar sua empresa** a atingir os seus objetivos com a ajuda de **tecnologias inovadoras**, **automação** e **inteligência artificial**.
-
-
-
 https://github.com/user-attachments/assets/c002ec3f-fd49-4498-b3d3-2999980f31ab
-
-
 
 ---
 
@@ -208,8 +144,17 @@ https://github.com/user-attachments/assets/c002ec3f-fd49-4498-b3d3-2999980f31ab
 
 ## 🔍 **Dados Profissionais**
 
-- **Cargo Pretendido**: Auxiliar, Técnico, Operacional  
+- **Cargo Pretendido**: Analista, Especialista, Técnico  
 
+Minha abordagem técnica e prática, aliada à constante atualização com as melhores práticas do mercado, proporciona às empresas não apenas soluções eficazes, mas também uma base sólida para inovação e crescimento sustentável. Com o desenvolvimento de sistemas personalizados e o uso de tecnologias avançadas como IA e machine learning, meu objetivo é transformar operações complexas em processos eficientes e orientados a resultados.
+
+![CERTIFICADO ITIL FOUNDATION ELIAS 2012](https://github.com/user-attachments/assets/72b7eeb8-e153-4ca8-bb1f-f7c992887d57)
+
+**🔥 Acredito que a inovação e a automação são o futuro e o meu trabalho tem o objetivo de levar as empresas a um nível esperado de excelência.**
+
+### 📞 **Contato**:
+- **WhatsApp**: [11 9 1335 3137](https://wa.me/55119913353137)
+- 
 ---
 
 ## 💼 **Atividades Complementares**
@@ -478,9 +423,4 @@ Aqui estão alguns exemplos de projetos que demonstram o uso dessas tecnologias:
 
 ---
 
-## 💡 **Conclusão**
-
-Minha abordagem técnica e prática, aliada à constante atualização com as melhores práticas do mercado, proporciona às empresas não apenas soluções eficazes, mas também uma base sólida para inovação e crescimento sustentável. Com o desenvolvimento de sistemas personalizados e o uso de tecnologias avançadas como IA e machine learning, meu objetivo é transformar operações complexas em processos eficientes e orientados a resultados.
-
-![CERTIFICADO ITIL FOUNDATION ELIAS 2012](https://github.com/user-attachments/assets/72b7eeb8-e153-4ca8-bb1f-f7c992887d57)
 
