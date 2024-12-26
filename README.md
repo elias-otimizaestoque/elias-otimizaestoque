@@ -100,10 +100,6 @@ Essas soluções são baseadas nas tecnologias mais avançadas, como **Machine L
 - **Business Intelligence**: Criação de dashboards interativos e relatórios analíticos.
 - **Supply Chain**: Soluções avançadas para gestão integrada de cadeia de suprimentos.
 
----  
-⚡️ **Conecte-se**: [@chaos4455](https://github.com/elias-otimizaestoque)  
-
-
 ---
 
 ## 📋 **Experiência Profissional**
