@@ -1,7 +1,5 @@
 # Especialista em controle de estoque, compras e supply chain - Arquiteto de IA, Machine Learning, Indicadores, BI e Automação de processos e desenvolvimento  de sistemas🚀
 
-![chrome_hG6QT9HE46](https://github.com/user-attachments/assets/5a305d57-8281-481d-8ade-a1284757e9c3)
-
 ### 💡 **O que Eu Faço:**
 - **Desenvolvedor de Soluções Avançadas**: Criação de **Sistemas Inteligentes**, **Modelos de IA** e **Automação de Processos** com **Machine Learning**, **Business Intelligence (BI)**, **Auto BI**, e **Auto ML**.
 - **Especialista em Logística e Estoque**: Projetos de **Otimização de Processos**, **Controle de Estoque**, **Gestão de Compras** e **Supply Chain**.
