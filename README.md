@@ -184,14 +184,6 @@ Ao longo da minha trajetória profissional, busquei constantemente me envolver e
 
 ---
 
----
-
-## 📈 **Projetos Relevantes**
-
-- [Repositorio no GitHub](https://github.com/elias-otimizaestoque) - Implemento soluções personalizadas, crio micro sistemas e otimizo processos logísticos com tecnologias modernas. Também ofereço consultoria especializada em Logística Integrada e Inteligência Artificial.
-
----
-
 Como um profissional dedicado à inovação tecnológica, desenvolvo soluções personalizadas que otimizam processos organizacionais em diversos setores, como logística, controle de estoque, gestão de frota e abastecimento. Utilizo técnicas avançadas de automação, inteligência artificial (IA) e machine learning para aprimorar operações, reduzir erros e aumentar a eficiência operacional.
 
 ## 🚀 **O que oferto:**
