@@ -91,7 +91,12 @@ Essas soluções são baseadas nas tecnologias mais avançadas, como **Machine L
 ![SaaS](https://img.shields.io/badge/SaaS-%E2%9C%94-purple)
 
 
-# **🚀 Projetos recentes - Showcase do Conhecimento em Supply Chain e Tecnologia**  
+# **🚀 Projetos recentes - Showcase do Conhecimento em Supply Chain e Tecnologia**
+
+## 🚀 **Projetos de IA e Automação - Supply Chain e Logística**  
+[![AI-Projects](https://img.shields.io/badge/AI--Projects-yellow)](https://github.com/elias-otimizaestoque/AI-Projects)  
+### Este repositório reúne projetos inovadores que aplicam Inteligência Artificial, Machine Learning e Business Intelligence para otimização em Supply Chain, gestão de estoques, compras e automação de processos logísticos. Desde 2010, venho desenvolvendo soluções que promovem eficiência operacional e decisões baseadas em dados através da tecnologia.
+
 
 ## 🚀 **Projetos Q3/Q4 2024**  
 [![Projetos Q3/Q4 2024](https://img.shields.io/badge/Projetos-Q3--Q4%202024-yellow)](https://github.com/elias-otimizaestoque/Projetos-Q3-Q4-2024)  
@@ -104,6 +109,7 @@ Essas soluções são baseadas nas tecnologias mais avançadas, como **Machine L
 ## 🚀 **Projetos 2023**  
 [![Projetos 2023](https://img.shields.io/badge/Projetos-2023-yellow)](https://github.com/elias-otimizaestoque/Projetos-2023)  
 ### Showcase completo de projetos de IA focados em compras, gestão de estoques e automação de processos logísticos.
+
 
 ---  
 ### 🌟 Principais Características:
