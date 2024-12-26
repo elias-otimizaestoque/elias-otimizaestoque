@@ -1,3 +1,16 @@
+[![Projetos na área de logistica, compras, estoque e T.I desde 2010](https://img.shields.io/badge/GitHub-200%2B_Projetos-%23A020F0)](https://github.com/chaos4455) 
+[![Logística](https://img.shields.io/badge/Logística-Expert-%23A020F0)](https://github.com/chaos4455) 
+[![BI e ML](https://img.shields.io/badge/BI%20%26%20ML-Avançado-%23A020F0)](https://github.com/chaos4455)  
+[![Automação](https://img.shields.io/badge/Automação-100%25_Custom-%23A020F0)](https://github.com/chaos4455) 
+[![Agentes Autônomos](https://img.shields.io/badge/Agentes%20Autônomos-Inovação-%23A020F0)](https://github.com/chaos4455)  
+[![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Eficiência-%23A020F0)](https://github.com/chaos4455)  
+[![Estoque](https://img.shields.io/badge/Estoque-Controle%20Total-%23A020F0)](https://github.com/chaos4455)  
+[![Dashboards](https://img.shields.io/badge/Dashboards-Interativos-%23A020F0)](https://github.com/chaos4455) 
+[![IA aplicada](https://img.shields.io/badge/IA_aplicada-Logística-%23A020F0)](https://github.com/chaos4455)  
+[![Projetos Avançados](https://img.shields.io/badge/Projetos-Avançados-%23A020F0)](https://github.com/chaos4455)  
+
+---
+
 # Especialista em controle de estoque, compras e supply chain - Arquiteto de IA, Machine Learning, Indicadores, BI e Automação de processos e desenvolvimento  de sistemas🚀
 
 ### 💡 **O que Eu Faço:**
