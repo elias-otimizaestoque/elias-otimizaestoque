@@ -185,8 +185,6 @@ Essas soluções são baseadas nas tecnologias mais avançadas, como **Machine L
 
 Minha abordagem técnica e prática, aliada à constante atualização com as melhores práticas do mercado, proporciona às empresas não apenas soluções eficazes, mas também uma base sólida para inovação e crescimento sustentável. Com o desenvolvimento de sistemas personalizados e o uso de tecnologias avançadas como IA e machine learning, meu objetivo é transformar operações complexas em processos eficientes e orientados a resultados.
 
-![CERTIFICADO ITIL FOUNDATION ELIAS 2012](https://github.com/user-attachments/assets/72b7eeb8-e153-4ca8-bb1f-f7c992887d57)
-
 **🔥 Acredito que a inovação e a automação são o futuro e o meu trabalho tem o objetivo de levar as empresas a um nível esperado de excelência.**
 
 ### 📞 **Contato**:
@@ -379,6 +377,20 @@ Aqui estão alguns exemplos de projetos que demonstram o uso dessas tecnologias:
 - **Automação de Análises**: Com IA, forneço soluções rápidas e inteligentes que melhoram a tomada de decisão.
 - **Gestão de Estoque e Logística**: Minhas ferramentas permitem otimizar recursos e aumentar a eficiência operacional.
 - **Inovação Contínua**: Acompanho tendências tecnológicas, garantindo sempre o uso das melhores práticas no desenvolvimento de soluções inovadoras.
+
+![CERTIFICADO ITIL FOUNDATION ELIAS 2012](https://github.com/user-attachments/assets/72b7eeb8-e153-4ca8-bb1f-f7c992887d57)
+
+# **🚀 Experiência e Certificações**
+
+## **ITIL v3 Certificado**  
+Sou certificado em ITIL v3, com sólida experiência na condução de projetos focados em compras, gestão de estoques e infraestrutura tecnológica. Minhas abordagens envolvem a integração de TI, suprimentos, serviços e sistemas, aplicando melhores práticas para otimização e melhorias contínuas.
+
+### **Projetos e Especializações**  
+- **Gestão de Estoques**: Implementação e otimização de processos logísticos utilizando boas práticas e tecnologias inovadoras.
+- **Compras e Suprimentos**: Gestão eficiente de processos de aquisição e controle de estoques com foco em TI e automação.
+- **Infraestrutura e Sistemas**: Desenvolvimento de soluções integradas que aliam tecnologia, boas práticas e inovação.
+
+Atuando seguindo as boas diretries e boas práticas desde 2012 através da metodológia e procesos da ITIL, Lean,  e leitura e aplicação de procesoss baseado nas melhores isos de boas práticas e projetos, ofereço soluções robustas que promovem eficiência, redução de custos e melhoria contínua através da combinação de sistemas e práticas eficazes em TI e Logística.
 
 <img width="578" alt="chrome_1wT9JY9HX2" src="https://github.com/user-attachments/assets/12089404-6f72-4f7c-8d1d-2c0a59335377" />
 
