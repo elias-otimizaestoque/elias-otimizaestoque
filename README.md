@@ -2,7 +2,7 @@
 
 Essas entregas são realizadas com emprego de técnologias, sistemas e soluções e tecnologias mais avançadas, como **Machine Learning**, **IA**, **AutoML**, **BI**, **Kubernetes**, **Docker**, **React**, **Python** e **Cloud Computing**, e são projetadas para oferecer resultados tangíveis, criando um ambiente de trabalho mais **eficiente**, **econômico** e **sustentável**.
 
-### 🚀 **Tecnologias e processos que dominio**:
+### 🚀 **Tecnologias, práticas e processos que dominio**:
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%E2%9C%94-green)
@@ -40,7 +40,20 @@ Essas entregas são realizadas com emprego de técnologias, sistemas e soluçõe
 ![Agile](https://img.shields.io/badge/Agile-%E2%9C%94-blue)
 ![SaaS](https://img.shields.io/badge/SaaS-%E2%9C%94-purple)
 
-## 🚀 **Projetos de IA e Automação - Supply Chain e Logística - Clique nos botões amarelos pra ir até as páginas**  
+[![Projetos na área de logistica, compras, estoque e T.I desde 2010](https://img.shields.io/badge/Projetos-200%2B_Projetos-%23A020F0)](https://github.com/chaos4455) 
+[![Logística](https://img.shields.io/badge/Logística-Expert-%23A020F0)](https://github.com/chaos4455) 
+[![BI e ML](https://img.shields.io/badge/BI%20%26%20ML-Avançado-%23A020F0)](https://github.com/chaos4455)  
+[![Automação](https://img.shields.io/badge/Automação-100%25_Custom-%23A020F0)](https://github.com/chaos4455) 
+[![Agentes Autônomos](https://img.shields.io/badge/Agentes%20Autônomos-Inovação-%23A020F0)](https://github.com/chaos4455)  
+[![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Eficiência-%23A020F0)](https://github.com/chaos4455)  
+[![Estoque](https://img.shields.io/badge/Estoque-Controle%20Total-%23A020F0)](https://github.com/chaos4455)  
+[![Dashboards](https://img.shields.io/badge/Dashboards-Interativos-%23A020F0)](https://github.com/chaos4455) 
+[![IA aplicada](https://img.shields.io/badge/IA_aplicada-Logística-%23A020F0)](https://github.com/chaos4455)  
+[![Projetos Avançados](https://img.shields.io/badge/Projetos-Avançados-%23A020F0)](https://github.com/chaos4455)  
+
+--
+
+## 🚀 **Portfólios de Projetos de IA e Automação - Supply Chain e Logística - Clique nos botões amarelos pra ir até as páginas**  
 
 
 [![AI-Projects](https://img.shields.io/badge/AI--Projects-yellow)](https://github.com/elias-otimizaestoque/AI-Projects)  
@@ -57,17 +70,6 @@ Essas entregas são realizadas com emprego de técnologias, sistemas e soluçõe
 
 [![Projetos 2023](https://img.shields.io/badge/Projetos-2023-yellow)](https://github.com/elias-otimizaestoque/Projetos-2023)  
 ### Showcase completo de projetos de IA focados em compras, gestão de estoques e automação de processos logísticos.
-
-[![Projetos na área de logistica, compras, estoque e T.I desde 2010](https://img.shields.io/badge/Projetos-200%2B_Projetos-%23A020F0)](https://github.com/chaos4455) 
-[![Logística](https://img.shields.io/badge/Logística-Expert-%23A020F0)](https://github.com/chaos4455) 
-[![BI e ML](https://img.shields.io/badge/BI%20%26%20ML-Avançado-%23A020F0)](https://github.com/chaos4455)  
-[![Automação](https://img.shields.io/badge/Automação-100%25_Custom-%23A020F0)](https://github.com/chaos4455) 
-[![Agentes Autônomos](https://img.shields.io/badge/Agentes%20Autônomos-Inovação-%23A020F0)](https://github.com/chaos4455)  
-[![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Eficiência-%23A020F0)](https://github.com/chaos4455)  
-[![Estoque](https://img.shields.io/badge/Estoque-Controle%20Total-%23A020F0)](https://github.com/chaos4455)  
-[![Dashboards](https://img.shields.io/badge/Dashboards-Interativos-%23A020F0)](https://github.com/chaos4455) 
-[![IA aplicada](https://img.shields.io/badge/IA_aplicada-Logística-%23A020F0)](https://github.com/chaos4455)  
-[![Projetos Avançados](https://img.shields.io/badge/Projetos-Avançados-%23A020F0)](https://github.com/chaos4455)  
 
 ---
 ### 💡 **O que Eu Faço:**
