@@ -1,4 +1,4 @@
-# Especialista em controle de estoque, compras e supply chain - Arquiteto de IA, Machine Learning, Indicadores, BI e Automação de processos e desenvolvimento  de sistemas🚀
+# Analista de controle de estoque, compras e supply chain - Arquiteto de IA, Machine Learning, Indicadores, BI e Automação de processos e desenvolvimento  de sistemas🚀
 
 [![Projetos na área de logistica, compras, estoque e T.I desde 2010](https://img.shields.io/badge/Projetos-200%2B_Projetos-%23A020F0)](https://github.com/chaos4455) 
 [![Logística](https://img.shields.io/badge/Logística-Expert-%23A020F0)](https://github.com/chaos4455) 
