@@ -91,7 +91,7 @@ Essas soluções são baseadas nas tecnologias mais avançadas, como **Machine L
 ![SaaS](https://img.shields.io/badge/SaaS-%E2%9C%94-purple)
 
 
-# **🚀 Projetos recentes - Showcase do Conhecimento em Supply Chain e Tecnologia**
+# **🚀 Portfólio de projetos**
 
 ## 🚀 **Projetos de IA e Automação - Supply Chain e Logística**  
 [![AI-Projects](https://img.shields.io/badge/AI--Projects-yellow)](https://github.com/elias-otimizaestoque/AI-Projects)  
