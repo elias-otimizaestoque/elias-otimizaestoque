@@ -13,9 +13,9 @@
 
 ---
 ### 💡 **O que Eu Faço:**
-- **Desenvolvedor de Soluções Avançadas**: Criação de **Sistemas Inteligentes**, **Modelos de IA** e **Automação de Processos** com **Machine Learning**, **Business Intelligence (BI)**, **Auto BI**, e **Auto ML**.
+- **Analista de estoque, compras e Desenvolvedor de Soluções de tecnologia pra melhorias e boas práticas**: Criação de **Sistemas Inteligentes**, **Modelos de IA pra análise avançadas de dados, tendências de consnumo, estoque** e **Automação de Processos** com **Machine Learning**, **Business Intelligence (BI)**, usando automação e inteligênica artificial pra criar relatórios e dashbords e sua entrega e distribuição de forma automatizada usando técnicas de  **Auto BI**, e **Auto ML**.
 - **Especialista em Logística e Estoque**: Projetos de **Otimização de Processos**, **Controle de Estoque**, **Gestão de Compras** e **Supply Chain**.
-- **Consultoria em Melhoria Contínua**: Implementação de **ITIL**, **ITSM**, **Kanban**, **Lean** e **Kaizen** para **auditoria** e **eficiência operacional**.
+- **Foco em Melhoria Contínua**: Implementação de **ITIL**, **ITSM**, **Kanban**, **Lean** e **Kaizen** para **auditoria** e **eficiência operacional**.
 
 ### 🌐 **Quem Sou Eu**:
 - **Arquiteto de IA e Inovação** com mais de 600 projetos entregues ao longos dos útlimos 15 anos, além de expertise avançado em tecnologias modernas como: **Machine Learning** e **Automação com IA**.
