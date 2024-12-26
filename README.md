@@ -40,20 +40,21 @@ Essas entregas são realizadas com emprego de técnologias, sistemas e soluçõe
 ![Agile](https://img.shields.io/badge/Agile-%E2%9C%94-blue)
 ![SaaS](https://img.shields.io/badge/SaaS-%E2%9C%94-purple)
 
-## 🚀 **Projetos de IA e Automação - Supply Chain e Logística**  
+## 🚀 **Projetos de IA e Automação - Supply Chain e Logística - Clique nos botões amarelos pra ir até as páginas**  
+
+
 [![AI-Projects](https://img.shields.io/badge/AI--Projects-yellow)](https://github.com/elias-otimizaestoque/AI-Projects)  
 ### Este repositório reúne projetos inovadores que aplicam Inteligência Artificial, Machine Learning e Business Intelligence para otimização em Supply Chain, gestão de estoques, compras e automação de processos logísticos. Desde 2010, venho desenvolvendo soluções que promovem eficiência operacional e decisões baseadas em dados através da tecnologia.
 
 
-## 🚀 **Projetos Q3/Q4 2024**  
 [![Projetos Q3/Q4 2024](https://img.shields.io/badge/Projetos-Q3--Q4%202024-yellow)](https://github.com/elias-otimizaestoque/Projetos-Q3-Q4-2024)  
 ### Projetos voltados para IA, Machine Learning e automação em supply chain, com foco em otimização de estoques e relatórios analíticos.  
 
-## 🚀 **Projetos 2024**  
+
 [![Projetos 2024](https://img.shields.io/badge/Projetos-2024-yellow)](https://github.com/elias-otimizaestoque/Projetos-2024)  
 ### Soluções integradas para automação de processos logísticos, relatórios detalhados e analytics usando BI e Machine Learning.
 
-## 🚀 **Projetos 2023**  
+
 [![Projetos 2023](https://img.shields.io/badge/Projetos-2023-yellow)](https://github.com/elias-otimizaestoque/Projetos-2023)  
 ### Showcase completo de projetos de IA focados em compras, gestão de estoques e automação de processos logísticos.
 
