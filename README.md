@@ -79,7 +79,30 @@ Essas soluções são baseadas nas tecnologias mais avançadas, como **Machine L
 ![SaaS](https://img.shields.io/badge/SaaS-%E2%9C%94-purple)
 
 
-https://github.com/user-attachments/assets/c002ec3f-fd49-4498-b3d3-2999980f31ab
+# **🚀 Projetos recentes - Showcase do Conhecimento em Supply Chain e Tecnologia**  
+
+## 🚀 **Projetos Q3/Q4 2024**  
+[![Projetos Q3/Q4 2024](https://img.shields.io/badge/Projetos-Q3--Q4%202024-yellow)](https://github.com/elias-otimizaestoque/Projetos-Q3-Q4-2024)  
+### Projetos voltados para IA, Machine Learning e automação em supply chain, com foco em otimização de estoques e relatórios analíticos.  
+
+## 🚀 **Projetos 2024**  
+[![Projetos 2024](https://img.shields.io/badge/Projetos-2024-yellow)](https://github.com/elias-otimizaestoque/Projetos-2024)  
+### Soluções integradas para automação de processos logísticos, relatórios detalhados e analytics usando BI e Machine Learning.
+
+## 🚀 **Projetos 2023**  
+[![Projetos 2023](https://img.shields.io/badge/Projetos-2023-yellow)](https://github.com/elias-otimizaestoque/Projetos-2023)  
+### Showcase completo de projetos de IA focados em compras, gestão de estoques e automação de processos logísticos.
+
+---  
+### 🌟 Principais Características:
+- **Automação**: Processos automatizados para otimizar a gestão de estoques.
+- **Machine Learning**: Modelos preditivos para previsão de demandas e controle de inventário.
+- **Business Intelligence**: Criação de dashboards interativos e relatórios analíticos.
+- **Supply Chain**: Soluções avançadas para gestão integrada de cadeia de suprimentos.
+
+---  
+⚡️ **Conecte-se**: [@chaos4455](https://github.com/elias-otimizaestoque)  
+
 
 ---
 
