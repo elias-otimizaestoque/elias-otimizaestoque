@@ -141,7 +141,7 @@ Se sua empresa busca alguém com **expertise técnica**, **mentalidade voltada p
 
 ## 📋 **Experiência Profissional**
 
-### **Medicinal Farmácia e Manipulação**  
+### **Medicinal Farmácia e Manipulação - industria e comércio de médio porte**  
 **Cargo**: Analista e Conferente de Recebimento e Separação de Mercadorias  
 **Período**: 02/2019 - 10/2023 (4 anos e 8 meses)  
 **Principais Atividades**:  
@@ -154,7 +154,7 @@ Se sua empresa busca alguém com **expertise técnica**, **mentalidade voltada p
 
 ---
 
-### **Coca Cola (antiga Spaipa depois Coca Cola FEMSA)** - Terceirizado via Consultoria Stefanini  
+### **Coca Cola (antiga Spaipa depois Coca Cola FEMSA - industria grande porte)**  
 **Cargo**: Técnico de Informática e Analista de Estoque de Equipamentos de Informática  
 **Período**: 03/2010 - 08/2017 (7 anos e 5 meses)  
 **Principais Atividades**:  
