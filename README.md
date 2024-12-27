@@ -51,7 +51,7 @@ Essas entregas são realizadas com emprego de técnologias, sistemas e soluçõe
 [![IA aplicada](https://img.shields.io/badge/IA_aplicada-Logística-%23A020F0)](https://github.com/chaos4455)  
 [![Projetos Avançados](https://img.shields.io/badge/Projetos-Avançados-%23A020F0)](https://github.com/chaos4455)  
 
-# 📞 **Entre em Contato com Elias!** 🚀
+# 📞 **Entre em Contato comigo!** 🚀
 
 💡 **Tem um projeto inovador? Busca parcerias estratégicas? Quer transformar ideias em realidade?**  
 Estou à disposição para colaborar em **projetos**, estabelecer **parcerias** ou contribuir com **soluções tecnológicas** personalizadas. Vamos juntos criar o futuro da tecnologia! 🌟✨
