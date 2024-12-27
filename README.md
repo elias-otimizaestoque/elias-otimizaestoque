@@ -76,7 +76,7 @@ Estou à disposição para colaborar em **projetos**, estabelecer **parcerias** 
 
 ---
 
-## 🛡️ **Badges de Parceria e Contato**
+## 🛡️ **Estou disponível para Projetos, Parcerias e Trabalhos**
 
 #### **💡 Projetos e Soluções**
 ![Projetos](https://img.shields.io/badge/Projetos%20Inovadores%20%F0%9F%92%BB-blue)
