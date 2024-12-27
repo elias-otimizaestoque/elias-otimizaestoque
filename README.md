@@ -53,8 +53,6 @@ Essas entregas são realizadas com emprego de técnologias, sistemas e soluçõe
 
 # 📞 **Entre em Contato comigo!** 🚀
 
----
-
 ### 📲 **Fale Agora pelo WhatsApp**
 📱 **Número:** [11 9 1335-3137](https://wa.me/55119913353137)  
 👤 **Contato:** Elias Andrade  
