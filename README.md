@@ -178,6 +178,9 @@ Se sua empresa busca alguém com **expertise técnica**, **mentalidade voltada p
 ![explorer_0FBHx869m6](https://github.com/user-attachments/assets/0779d00d-17ff-4b55-8ecc-8441d91c482f)
 
 ---
+Minha abordagem técnica e prática, aliada à constante atualização com as melhores práticas do mercado, proporciona às empresas não apenas soluções eficazes, mas também uma base sólida para inovação e crescimento sustentável. Com o desenvolvimento de sistemas personalizados e o uso de tecnologias avançadas como IA e machine learning, meu objetivo é transformar operações complexas em processos eficientes e orientados a resultados.
+
+**🔥 Acredito que a inovação e a automação são o futuro e o meu trabalho tem o objetivo de levar as empresas a um nível esperado de excelência.**
 
 ## 📋 **Experiência Profissional**
 
@@ -236,19 +239,6 @@ Se sua empresa busca alguém com **expertise técnica**, **mentalidade voltada p
 - 🔗 **Gestão de Logística Integrada**  
 - 🌱 **Otimização de Fluxos Operacionais e Logísticos**
 
----
-
-## 🔍 **Dados Profissionais**
-
-- **Cargo Pretendido**: Analista, Especialista, Técnico  
-
-Minha abordagem técnica e prática, aliada à constante atualização com as melhores práticas do mercado, proporciona às empresas não apenas soluções eficazes, mas também uma base sólida para inovação e crescimento sustentável. Com o desenvolvimento de sistemas personalizados e o uso de tecnologias avançadas como IA e machine learning, meu objetivo é transformar operações complexas em processos eficientes e orientados a resultados.
-
-**🔥 Acredito que a inovação e a automação são o futuro e o meu trabalho tem o objetivo de levar as empresas a um nível esperado de excelência.**
-
-### 📞 **Contato**:
-- **WhatsApp**: [11 9 1335 3137](https://wa.me/55119913353137)
-- 
 ---
 
 ## 💼 **Atividades Complementares**
