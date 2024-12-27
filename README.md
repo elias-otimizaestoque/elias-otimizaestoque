@@ -68,14 +68,6 @@ Estou à disposição para colaborar em **projetos**, estabelecer **parcerias** 
 
 ---
 
-### 🌟 **Chamada para Ações**
-- 🤝 **Parcerias Estratégicas:** Vamos inovar juntos e trazer soluções para o mercado!  
-- 🔧 **Consultoria e Desenvolvimento:** Criação de sistemas integrados, automação e muito mais.  
-- 🎯 **Colaboração em Projetos:** Desde protótipos a grandes implementações.  
-- 💡 **Inovações Tecnológicas:** IA, otimização de processos, automações e insights baseados em dados.  
-
----
-
 ## 🛡️ **Estou disponível para Projetos, Parcerias e Trabalhos**
 
 #### **💡 Projetos e Soluções**
@@ -98,11 +90,6 @@ Estou à disposição para colaborar em **projetos**, estabelecer **parcerias** 
 ![Elias Andrade](https://img.shields.io/badge/Contato%3A%20Elias%20Andrade%20%F0%9F%91%A4-blue)
 ![Disponibilidade](https://img.shields.io/badge/Disponibilidade%20Imediata%20%E2%9C%85-yellow)
 ![Horários](https://img.shields.io/badge/Hor%C3%A1rio%3A%209h--18h%20%F0%9F%95%91-lightblue)
-
----
-
-🚀 **Vamos transformar suas ideias em realidade e levar inovação para o próximo nível!** Entre em contato agora mesmo! 😊  
-
 
 --
 
