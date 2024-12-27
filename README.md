@@ -53,9 +53,6 @@ Essas entregas são realizadas com emprego de técnologias, sistemas e soluçõe
 
 # 📞 **Entre em Contato comigo!** 🚀
 
-💡 **Tem um projeto inovador? Busca parcerias estratégicas? Quer transformar ideias em realidade?**  
-Estou à disposição para colaborar em **projetos**, estabelecer **parcerias** ou contribuir com **soluções tecnológicas** personalizadas. Vamos juntos criar o futuro da tecnologia! 🌟✨
-
 ---
 
 ### 📲 **Fale Agora pelo WhatsApp**
