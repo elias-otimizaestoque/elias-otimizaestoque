@@ -2,7 +2,8 @@
 
 Essas entregas são realizadas com emprego de técnologias, sistemas e soluções e tecnologias mais avançadas, como **Machine Learning**, **IA**, **AutoML**, **BI**, **Kubernetes**, **Docker**, **React**, **Python** e **Cloud Computing**, e são projetadas para oferecer resultados tangíveis, criando um ambiente de trabalho mais **eficiente**, **econômico** e **sustentável**.
 
-![Measuring-Warehouse-Performance-2_900x506](https://github.com/user-attachments/assets/cb7cf81c-eff5-453d-a7e9-d4961def8f5f)
+https://github.com/user-attachments/assets/34dde862-cbaf-4f60-b27d-2027449030b7
+
 
 ### 🚀 **Tecnologias, práticas e processos que dominio**:
 
