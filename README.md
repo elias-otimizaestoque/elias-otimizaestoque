@@ -2,7 +2,18 @@
 
 Essas entregas são realizadas com emprego de técnologias, sistemas e soluções e tecnologias mais avançadas, como **Machine Learning**, **IA**, **AutoML**, **BI**, **Kubernetes**, **Docker**, **React**, **Python** e **Cloud Computing**, e são projetadas para oferecer resultados tangíveis, criando um ambiente de trabalho mais **eficiente**, **econômico** e **sustentável**.
 
-https://github.com/user-attachments/assets/34dde862-cbaf-4f60-b27d-2027449030b7
+
+
+https://github.com/user-attachments/assets/3f52cbfc-341d-4967-9fe2-bb24606353d7
+
+
+
+https://github.com/user-attachments/assets/52620b88-7b1a-458e-b537-da727e1c6c4f
+
+
+
+https://github.com/user-attachments/assets/5e9e89a3-e37d-4248-86ef-94e63399662c
+
 
 
 ### 🚀 **Tecnologias, práticas e processos que dominio**:
