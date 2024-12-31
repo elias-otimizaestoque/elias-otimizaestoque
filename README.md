@@ -220,15 +220,6 @@ Minha abordagem técnica e prática, aliada à constante atualização com as me
 
 ---
 
-## 🎓 **Escolaridade**
-
-- **Tecnologia em Logística** - Unopar EAD  
-  **Período**: 06/2016 - 12/2018  
-  **Completo**  
-- **Idioma**: Inglês - Técnico
-
----
-
 ## 🌟 **Habilidades e Qualificações**
 
 - 📦 **Gestão Avançada de Estoques**  
