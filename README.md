@@ -3,6 +3,18 @@
 Essas entregas são realizadas com emprego de técnologias, sistemas e soluções e tecnologias mais avançadas, como **Machine Learning**, **IA**, **AutoML**, **BI**, **Kubernetes**, **Docker**, **React**, **Python** e **Cloud Computing**, e são projetadas para oferecer resultados tangíveis, criando um ambiente de trabalho mais **eficiente**, **econômico** e **sustentável**.
 
 
+![chrome_1zYZYFRi2g](https://github.com/user-attachments/assets/1abfcef3-dc37-4f70-bebf-728b9a720101)
+
+![chrome_uFIrPA0Ole](https://github.com/user-attachments/assets/f1fa1a53-83a8-46cb-a3d0-522e50794491)
+
+![chrome_Rb7bOTmA4L](https://github.com/user-attachments/assets/31706fd0-5868-4747-a3da-96d367e3c65d)
+
+![chrome_2Epq4hCfAs](https://github.com/user-attachments/assets/24e6acf2-eaad-4fbf-90fa-43a24f64dad7)
+
+![chrome_iWeTPuARC5](https://github.com/user-attachments/assets/504e53cf-7344-47d8-88d4-976863087de3)
+
+![chrome_qShEVi0VJ0](https://github.com/user-attachments/assets/f62ae147-ea77-41f2-b7a8-b4831a69b80b)
+
 
 https://github.com/user-attachments/assets/3f52cbfc-341d-4967-9fe2-bb24606353d7
 
